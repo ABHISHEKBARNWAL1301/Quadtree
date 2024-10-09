@@ -43,3 +43,10 @@ Feel free to contribute to this project! Whether it's fixing bugs, adding new fe
 
 Thank you for your interest in improving this project!
 
+
+
+## References
+
+For more information on Quadtrees, please refer to the following resource:
+
+- [Quadtree - Wikipedia](https://en.wikipedia.org/wiki/Quadtree#:~:text=A%20quadtree%20is%20a%20tree,into%20four%20quadrants%20or%20regions.)
